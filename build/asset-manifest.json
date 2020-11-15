@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/harvest-bidding/static/js/main.961b5c12.chunk.js",
+    "main.js.map": "/harvest-bidding/static/js/main.961b5c12.chunk.js.map",
+    "runtime-main.js": "/harvest-bidding/static/js/runtime-main.09693eac.js",
+    "runtime-main.js.map": "/harvest-bidding/static/js/runtime-main.09693eac.js.map",
+    "static/js/2.1d909945.chunk.js": "/harvest-bidding/static/js/2.1d909945.chunk.js",
+    "static/js/2.1d909945.chunk.js.map": "/harvest-bidding/static/js/2.1d909945.chunk.js.map",
+    "index.html": "/harvest-bidding/index.html",
+    "precache-manifest.01b468ed0a77ca8a4371e8fcde8ffa1a.js": "/harvest-bidding/precache-manifest.01b468ed0a77ca8a4371e8fcde8ffa1a.js",
+    "service-worker.js": "/harvest-bidding/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09693eac.js",
+    "static/js/2.1d909945.chunk.js",
+    "static/js/main.961b5c12.chunk.js"
+  ]
+}
